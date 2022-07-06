@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.3e5c8efe.css",
-    "main.js": "/react-gh-pages/static/js/main.7741d649.js",
-    "static/media/stock2.jpg": "/react-gh-pages/static/media/stock2.c22d6ef8eac21c1807d4.jpg",
-    "static/media/stock1.jpg": "/react-gh-pages/static/media/stock1.d7ad1e6f58fedb261460.jpg",
-    "static/media/heroBG.png": "/react-gh-pages/static/media/heroBG.7d6cfd4714d7f0b6c677.png",
-    "index.html": "/react-gh-pages/index.html",
-    "main.3e5c8efe.css.map": "/react-gh-pages/static/css/main.3e5c8efe.css.map",
-    "main.7741d649.js.map": "/react-gh-pages/static/js/main.7741d649.js.map"
+    "main.css": "/Quantum-computing-presentation/static/css/main.3e5c8efe.css",
+    "main.js": "/Quantum-computing-presentation/static/js/main.22ce626c.js",
+    "static/media/stock2.jpg": "/Quantum-computing-presentation/static/media/stock2.c22d6ef8eac21c1807d4.jpg",
+    "static/media/stock1.jpg": "/Quantum-computing-presentation/static/media/stock1.d7ad1e6f58fedb261460.jpg",
+    "static/media/heroBG.png": "/Quantum-computing-presentation/static/media/heroBG.7d6cfd4714d7f0b6c677.png",
+    "index.html": "/Quantum-computing-presentation/index.html",
+    "main.3e5c8efe.css.map": "/Quantum-computing-presentation/static/css/main.3e5c8efe.css.map",
+    "main.22ce626c.js.map": "/Quantum-computing-presentation/static/js/main.22ce626c.js.map"
   },
   "entrypoints": [
     "static/css/main.3e5c8efe.css",
-    "static/js/main.7741d649.js"
+    "static/js/main.22ce626c.js"
   ]
 }
