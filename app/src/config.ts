@@ -1,6 +1,9 @@
 import stock1 from './images/stock1.jpg'
 import stock2 from './images/stock2.jpg'
-import heroBG from './images/heroBG.png'
+import hero from './images/heroBG.png'
+import eagle from './images/eagle.png'
+import basicMechanics from './images/basicMechanics.png'
+import qubitChip from './images/qubitChip.png'
 
 export interface SlideType {
     title: string
@@ -17,22 +20,24 @@ export interface SlideType {
 export const slides: SlideType[] = [
     {
         title: 'Quantum Computing',
-        text: `The study of quantums in computing`,
-        BGImage: heroBG,
+        text: `The utilization of qubits to perform computational tasks`,
+        BGImage: hero,
         align: 'center',
-    },
-    {
-        title: 'This is the title',
-        text: `This is the description <br /> and it should be rich text?`,
-        BGImage: stock1,
-        image: stock2,
-        align: 'left',
         theme: 'glassBlack',
     },
     {
-        title: 'This is the title',
+        title: 'Basic mechanics',
         text: `This is the description <br /> and it should be rich text?`,
-        BGImage: stock2,
+        BGImage: basicMechanics,
+        image: qubitChip,
+        align: 'left',
+        theme: 'glassWhite',
+    },
+    {
+        title: 'IBM Eagle',
+        text: `The world's most powerful 127 qubit quantum computer`,
+        BGImage: eagle,
         align: 'right',
+        theme: 'glassBlack',
     },
 ]
