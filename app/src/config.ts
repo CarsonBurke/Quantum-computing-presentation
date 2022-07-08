@@ -89,7 +89,7 @@ export const slides: SlideType[] = [
         title: 'The Future of Quantum Computing',
         text: `Benefits to AI and research, possibly astronomic consequences such as government, individual or corporate control; empowered hackers, or more deadly warfare; all because of the incredible computational power`,
         BGImage: future,
-        align: 'right',
+        align: 'left',
         theme: 'glassWhite',
     },
     {
