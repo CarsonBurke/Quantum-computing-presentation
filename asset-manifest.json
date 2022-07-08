@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Quantum-computing-presentation/static/css/main.475a00e3.css",
-    "main.js": "/Quantum-computing-presentation/static/js/main.46733878.js",
+    "main.js": "/Quantum-computing-presentation/static/js/main.33bc9c0c.js",
     "static/media/science.png": "/Quantum-computing-presentation/static/media/science.2f6d0933571cf03222d4.png",
     "static/media/government.jpg": "/Quantum-computing-presentation/static/media/government.e52ad338fce3d8c61c12.jpg",
     "static/media/greenEnergy.png": "/Quantum-computing-presentation/static/media/greenEnergy.9d5651fdcc799e1abcff.png",
@@ -16,10 +16,10 @@
     "static/media/quantumComputer.png": "/Quantum-computing-presentation/static/media/quantumComputer.cc19d7be08b1620d5d26.png",
     "index.html": "/Quantum-computing-presentation/index.html",
     "main.475a00e3.css.map": "/Quantum-computing-presentation/static/css/main.475a00e3.css.map",
-    "main.46733878.js.map": "/Quantum-computing-presentation/static/js/main.46733878.js.map"
+    "main.33bc9c0c.js.map": "/Quantum-computing-presentation/static/js/main.33bc9c0c.js.map"
   },
   "entrypoints": [
     "static/css/main.475a00e3.css",
-    "static/js/main.46733878.js"
+    "static/js/main.33bc9c0c.js"
   ]
 }
