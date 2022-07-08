@@ -1,16 +1,25 @@
 {
   "files": {
-    "main.css": "/Quantum-computing-presentation/static/css/main.3e5c8efe.css",
-    "main.js": "/Quantum-computing-presentation/static/js/main.22ce626c.js",
-    "static/media/stock2.jpg": "/Quantum-computing-presentation/static/media/stock2.c22d6ef8eac21c1807d4.jpg",
-    "static/media/stock1.jpg": "/Quantum-computing-presentation/static/media/stock1.d7ad1e6f58fedb261460.jpg",
+    "main.css": "/Quantum-computing-presentation/static/css/main.475a00e3.css",
+    "main.js": "/Quantum-computing-presentation/static/js/main.46733878.js",
+    "static/media/science.png": "/Quantum-computing-presentation/static/media/science.2f6d0933571cf03222d4.png",
+    "static/media/government.jpg": "/Quantum-computing-presentation/static/media/government.e52ad338fce3d8c61c12.jpg",
+    "static/media/greenEnergy.png": "/Quantum-computing-presentation/static/media/greenEnergy.9d5651fdcc799e1abcff.png",
+    "static/media/future.png": "/Quantum-computing-presentation/static/media/future.4c14751563dcbedd050a.png",
+    "static/media/qubitChip.png": "/Quantum-computing-presentation/static/media/qubitChip.ca42068b2f504d2c910f.png",
+    "static/media/eagle.png": "/Quantum-computing-presentation/static/media/eagle.0958602d76ec65fecc9c.png",
     "static/media/heroBG.png": "/Quantum-computing-presentation/static/media/heroBG.7d6cfd4714d7f0b6c677.png",
+    "static/media/quantumComputerBG.png": "/Quantum-computing-presentation/static/media/quantumComputerBG.8632373d85d7846be0a5.png",
+    "static/media/systemOne.png": "/Quantum-computing-presentation/static/media/systemOne.2fc8940b0f0dc8242680.png",
+    "static/media/basicMechanics.png": "/Quantum-computing-presentation/static/media/basicMechanics.c5fbfe2207aa89229ec3.png",
+    "static/media/qubit.png": "/Quantum-computing-presentation/static/media/qubit.513ac2c81986f5a90c80.png",
+    "static/media/quantumComputer.png": "/Quantum-computing-presentation/static/media/quantumComputer.cc19d7be08b1620d5d26.png",
     "index.html": "/Quantum-computing-presentation/index.html",
-    "main.3e5c8efe.css.map": "/Quantum-computing-presentation/static/css/main.3e5c8efe.css.map",
-    "main.22ce626c.js.map": "/Quantum-computing-presentation/static/js/main.22ce626c.js.map"
+    "main.475a00e3.css.map": "/Quantum-computing-presentation/static/css/main.475a00e3.css.map",
+    "main.46733878.js.map": "/Quantum-computing-presentation/static/js/main.46733878.js.map"
   },
   "entrypoints": [
-    "static/css/main.3e5c8efe.css",
-    "static/js/main.22ce626c.js"
+    "static/css/main.475a00e3.css",
+    "static/js/main.46733878.js"
   ]
 }
