@@ -35,7 +35,7 @@ export const slides: SlideType[] = [
     },
     {
         title: 'Basic mechanics',
-        text: `Simply put, the study of quantum mechanics in relation quantum computer R&D. Includes thoery, optimizing the computers, making them cheaper, mass producable, and stable`,
+        text: `Simply put, the study of quantum mechanics in relation to quantum computer R&D. Includes thoery, optimizing the computers, making them cheaper, mass producible, and stable`,
         BGImage: basicMechanics,
         align: 'right',
         theme: 'glassWhite',
@@ -80,7 +80,7 @@ export const slides: SlideType[] = [
     },
     {
         title: 'Who is Developing This?',
-        text: `Tech gaints who want to harness this technology for profits. More importantly, governments worldwide that provide billions of dollars in grants`,
+        text: `Tech giants who want to harness this technology for profits. More importantly, governments worldwide that provide billions of dollars in grants`,
         BGImage: government,
         align: 'right',
         theme: 'glassWhite',
