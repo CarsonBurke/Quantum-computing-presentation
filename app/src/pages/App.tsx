@@ -20,31 +20,27 @@ const slideParents = document.getElementsByClassName('slideContainer')
 let slideIndex = 0,
     scrollTop = 0
 
+document.addEventListener('wheel', scrollManager)
 document.addEventListener('keydown', hotKeyManager)
 
-function disableScroll() {
+function scrollManager() {
 
-      window.onwheel = function() {
-          console.log(window.pageXOffset, scrollTop)
-          window.scroll({
-            left: window.pageXOffset,
-            top: scrollTop
-          })
-      }
+  window.scroll({
+    left: window.pageXOffset,
+    top: scrollTop
+  })
 }
-
-disableScroll()
 
 function hotKeyManager(event: any) {
 
     const key = event.key
 
-    if (key == 'w' || key == 'a') {
+    if (key == 'ArrowLeft' || key == 'ArrowUp' || key == 'w' || key == 'a') {
 
         previousSlide()
         return
     }
-    if (key == 's' || key == 'd') {
+    if (key == 'ArrowRight' || key == 'ArrowDown' || key == 's' || key == 'd') {
 
         nextSlide()
         return
@@ -60,7 +56,7 @@ function nextSlide() {
     const slide = slideParents[slideIndex] as any
 
     scrollTop = slide.offsetTop
-    console.log(scrollTop)
+    
     window.scroll({
         top: scrollTop,
         behavior: 'smooth'

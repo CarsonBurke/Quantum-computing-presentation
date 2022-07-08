@@ -26,7 +26,7 @@ body {
     background-color: var(--primary);
     color: rgb(255, 255, 255);
     --main: rgb(0, 108, 250);
-    --primary: rgb(49, 49, 49);
+    --primary: rgb(36, 42, 53);
     --secondary: rgb(59, 59, 59);
     --tertiary: rgb(38, 41, 46);
 }
